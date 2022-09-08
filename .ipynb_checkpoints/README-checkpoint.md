@@ -30,7 +30,7 @@ There are two types of Machine Learning(ML) models that are used for time series
 
 Prophet is a powerful time series analysis package released by Core Data Science Team at Meta. It is simple and easy to go package for performing time series analytics and forecasting at scale.
 
-<img width=“964” src=asset/1.png>
+<img width=“400” src=asset/1.png>
 
 Prophet uses a decomposable time series model with three main model components: trend, seasonality, and holidays. They are combined in the following equation:
 
