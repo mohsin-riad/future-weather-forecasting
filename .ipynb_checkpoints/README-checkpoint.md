@@ -30,7 +30,7 @@ There are two types of Machine Learning(ML) models that are used for time series
 
 Prophet is a powerful time series analysis package released by Core Data Science Team at Meta. It is simple and easy to go package for performing time series analytics and forecasting at scale.
 
-<img width=“964” src=a../asset/1.png>
+<img width=“964” src=asset/1.png>
 
 Prophet uses a decomposable time series model with three main model components: trend, seasonality, and holidays. They are combined in the following equation:
 
@@ -44,12 +44,15 @@ The research paper for prophet can be found here.
 
 > **Installation**
 
-```pip install fbprophet```
+```
+pip install fbprophet
 or
-```python -m pip install prophet```
+python -m pip install prophet
+```
 
 <h2 align="center">Important Links</h2>
 
+- [Nasa Weather Data](https://www.earthdata.nasa.gov/learn/find-data/near-real-time/download-nrt-data)
 - [Prophet doc](https://facebook.github.io/prophet/docs/quick_start.html#python-api)
 - [Prophet Source](https://github.com/facebook/prophet)
 - [Blog](https://research.facebook.com/blog/2017/02/prophet-forecasting-at-scale/)
